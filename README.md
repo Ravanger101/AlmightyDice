@@ -1,3 +1,2 @@
-# Dice_ROLLER
-hello! it's me Aryan AKA Ravanger_101!
-hope you like my Dice project
+# ROLL THE DICE
+## Use this is your friendly board games!
